@@ -44,10 +44,3 @@ It combines **Power BI dashboards** and **Python (Jupyter Notebook)** analysis t
 - Visual analysis to support **marketing and business decisions**.  
 
 ---
-
-## 📂 Deliverables  
-- 📊 **Power BI Report** → [Reports/Christmas Sales and Trends Dashboard.pbix](https://github.com/Nadine-Hossam/Christmas-Sales-Dashboard/blob/main/Reports/Christmas%20Sales%20and%20Trends%20Dashboard.pbix)  
-- 🐍 **Python Notebook Analysis** → [Notebooks/Cleaning.ipynb](https://github.com/Nadine-Hossam/Christmas-Sales-Dashboard/blob/main/Notebooks/Cleaning.ipynb)  
-- 📑 **Dataset** → [Data/Onyx Data -DataDNA Dataset Challenge - Christmas Sales and Trends - December 2023.csv](https://github.com/Nadine-Hossam/Christmas-Sales-Dashboard/blob/main/Data/Onyx%20Data%20-DataDNA%20Dataset%20Challenge%20-%20Christmas%20Sales%20and%20Trends%20-%20December%202023.csv)  
-- 🖼 **Dashboard Image** → [Visuals/Dashboard.png](https://github.com/Nadine-Hossam/Christmas-Sales-Dashboard/blob/main/Visuals/Dashboard.png?raw=true)  
----
